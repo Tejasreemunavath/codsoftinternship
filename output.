@@ -1,0 +1,170 @@
+#output1
+
+
+
+
+
+  |   |  
+---------
+  |   |  
+---------
+  |   |  
+---------
+Enter row (0, 1, or 2): 0
+Enter column (0, 1, or 2): 2
+  |   | X
+---------
+  |   |  
+---------
+  |   |  
+---------
+AI is making a move...
+  |   | X
+---------
+  | O |  
+---------
+  |   |  
+---------
+Enter row (0, 1, or 2): 0
+Enter column (0, 1, or 2): 1
+  | X | X
+---------
+  | O |  
+---------
+  |   |  
+---------
+AI is making a move...
+O | X | X
+---------
+  | O |  
+---------
+  |   |  
+---------
+Enter row (0, 1, or 2): 2
+Enter column (0, 1, or 2): 2
+O | X | X
+---------
+  | O |  
+---------
+  |   | X
+---------
+AI is making a move...
+O | X | X
+---------
+  | O | O
+---------
+  |   | X
+---------
+Enter row (0, 1, or 2): 1
+Enter column (0, 1, or 2): 0
+O | X | X
+---------
+X | O | O
+---------
+  |   | X
+---------
+AI is making a move...
+O | X | X
+---------
+X | O | O
+---------
+O |   | X
+---------
+Enter row (0, 1, or 2): 2
+Enter column (0, 1, or 2): 1
+O | X | X
+---------
+X | O | O
+---------
+O | X | X
+---------
+It's a tie!
+
+
+
+#output2
+
+
+
+
+|   |  
+---------
+  |   |  
+---------
+  |   |  
+---------
+Enter row (0, 1, or 2): 0
+Enter column (0, 1, or 2): 2
+  |   | X
+---------
+  |   |  
+---------
+  |   |  
+---------
+AI is making a move...
+  |   | X
+---------
+  | O |  
+---------
+  |   |  
+---------
+Enter row (0, 1, or 2): 0
+Enter column (0, 1, or 2): 1
+  | X | X
+---------
+  | O |  
+---------
+  |   |  
+---------
+AI is making a move...
+O | X | X
+---------
+  | O |  
+---------
+  |   |  
+---------
+Enter row (0, 1, or 2): 2
+Enter column (0, 1, or 2): 2
+O | X | X
+---------
+  | O |  
+---------
+  |   | X
+---------
+AI is making a move...
+O | X | X
+---------
+  | O | O
+---------
+  |   | X
+---------
+Enter row (0, 1, or 2): 1
+Enter column (0, 1, or 2): 0
+O | X | X
+---------
+X | O | O
+---------
+  |   | X
+---------
+AI is making a move...
+O | X | X
+---------
+X | O | O
+---------
+O |   | X
+---------
+Enter row (0, 1, or 2): 2
+Enter column (0, 1, or 2): 1
+O | X | X
+---------
+X | O | O
+---------
+O | X | X
+---------
+It's a tie!
+
+
+
+
+
+#However its impossible to win against AI in tictactoe
